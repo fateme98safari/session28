@@ -43,7 +43,7 @@ excecute this command in terminal:
 
 ### **result**
 ---
-![screenshot](session28\footbal_pitch\result.jpg)
+![screenshot](footbal_pitch/result.jpg)
 
 ---
 
@@ -58,10 +58,10 @@ excecute this command in terminal:
  cat\main.py
   ```
 ### **input**   
-![screenshot](session28\cat\input\cats.jpg)
+![screenshot](cat/input/cats.jpg)
 ### **result**
 ---
-![screenshot](session28\cat\result.jpg)
+![screenshot](cat/result.jpg)
 
 ---
 **Theard**   :   **Face Detection**
@@ -77,13 +77,13 @@ excecute this command in terminal:
 ---
 
 Chess-board face
-![screenshot](session28\webcam\output\1.jpg)
+![screenshot](webcam/output/1.jpg)
 ---
 Stickers on eyes and lips
-![screenshot](session28\webcam\output\2.png)
+![screenshot](webcam/output/2.png)
 ---
 A non-square sticker on the face
-![screenshot](session28\webcam\output\3.png)
+![screenshot](webcam/output/3.png)
 ---
 Mirror filter
-![screenshot](session28\webcam\output\4.png)
+![screenshot](webcam/output/4.png)
